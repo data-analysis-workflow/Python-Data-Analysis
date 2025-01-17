@@ -13,7 +13,7 @@
    - Checks if each element of the Series starts with a specified substring.
    - Example:
       ```python
-        df['column'].str.startswith('substring')
+      df['column'].str.startswith('substring')
       ```
       
 3. **str.endswith()**
